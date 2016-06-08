@@ -4,21 +4,12 @@
    contain the root `toctree` directive.
 
 Welcome to ESnet Security's documentation!
-==========================================
+------------------------------------------
 
-Contents:
+For now just check the github page.
+https://github.com/esnet/security
 
 .. toctree::
    :maxdepth: 2
 
-I have no idea how to use Sphinx.
----------------------------------
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   news
